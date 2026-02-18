@@ -44,3 +44,23 @@ print("You gave me this number", user_number)
 
 # 15. Print a goodbye message
 print("Goodbye", user_name)
+
+# Ask the user to enter 5 numbers and store them in a list
+list = [0,0,0,0,0]
+print("Give me a number.")
+input1 = input()
+list[1] = input1
+# Print the list in reverse order
+# Calculate the average of the numbers in the list
+# Count how many numbers are greater than 10
+# Create a function that checks if a number is prime
+# Use the function to test every number in the list
+# Create a dictionary where each number maps to its square
+# Print the dictionary in a clean sentence format
+# Use a loop to find the smallest number in the list
+# Create a new list that only keeps even numbers
+# Sort the new list from smallest to largest
+# Write the results into a text file called results.txt
+# Read the file and print its contents to the screen
+# Handle errors if the file does not exist
+# Create a menu that lets the user choose which task to run
